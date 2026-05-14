@@ -45,6 +45,6 @@ systemctl start serverinfo
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
-OBFS='worldvpshost';
+OBFS='dexterobfs';
 HYSTERIA_TYPE='default';
 404: Not Found
